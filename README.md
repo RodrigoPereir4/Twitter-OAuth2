@@ -35,7 +35,6 @@
 
 <ol>
   <li><strong>Clone o projeto:</strong><br/>
-    <code>git clone https://github.com/SEU_USUARIO/Twitter-OAuth2.git</code>
   </li>
   <li><strong>Suba o banco com Docker:</strong><br/>
     <code>docker-compose up -d</code>
